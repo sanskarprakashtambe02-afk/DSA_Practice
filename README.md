@@ -7,6 +7,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2697-lexicographically-smallest-palindrome) |
 ## String
 |  |
@@ -28,6 +29,7 @@ My dsa practice in C++
 | ------- |
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Hash Table
 |  |
 | ------- |
