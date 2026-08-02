@@ -6,12 +6,14 @@ My dsa practice in C++
 ## Two Pointers
 |  |
 | ------- |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2697-lexicographically-smallest-palindrome) |
 ## String
 |  |
 | ------- |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -28,6 +30,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Hash Table
