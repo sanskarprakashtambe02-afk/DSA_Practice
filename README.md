@@ -38,6 +38,7 @@ My dsa practice in C++
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0136-single-number) |
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -72,4 +73,8 @@ My dsa practice in C++
 |  |
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
