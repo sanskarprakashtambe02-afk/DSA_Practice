@@ -25,6 +25,7 @@ My dsa practice in C++
 | [2697-lexicographically-smallest-palindrome](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3941-password-strength](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3941-password-strength) |
 ## Greedy
 |  |
 | ------- |
@@ -56,6 +57,7 @@ My dsa practice in C++
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
+| [3941-password-strength](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3941-password-strength) |
 ## Sorting
 |  |
 | ------- |
