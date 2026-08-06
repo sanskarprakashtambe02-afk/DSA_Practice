@@ -11,13 +11,13 @@ public:
             if(k>=48&&k<=57){
                 ans=ans+3;
             }
-            if(k>=97&&k<=122){
+            else if(k>=97&&k<=122){
                 ans++;
             }
-            if(k>=65&&k<=90){
+            else if(k>=65&&k<=90){
                 ans+=2;
             }
-            if(key=='!'||key=='@'||key=='#'||key=='$'){
+            else{
                 ans+=5;
             }
         }
