@@ -16,6 +16,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1108-defanging-an-ip-address) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -33,6 +34,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
