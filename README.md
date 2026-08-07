@@ -45,6 +45,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0136-single-number) |
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
@@ -59,6 +60,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
 | [3941-password-strength](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3941-password-strength) |
