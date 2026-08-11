@@ -99,4 +99,12 @@ My dsa practice in C++
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1037-valid-boomerang) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
