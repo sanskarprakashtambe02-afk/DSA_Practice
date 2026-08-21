@@ -58,6 +58,7 @@ My dsa practice in C++
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2942-find-words-containing-character](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2942-find-words-containing-character) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0415-add-strings) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Counting
 |  |
