@@ -64,6 +64,7 @@ My dsa practice in C++
 | [3875-construct-uniform-parity-array-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3904-smallest-stable-index-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
@@ -128,4 +129,5 @@ My dsa practice in C++
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
