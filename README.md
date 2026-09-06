@@ -16,6 +16,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0415-add-strings) |
@@ -82,6 +83,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
