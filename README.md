@@ -20,6 +20,7 @@ My dsa practice in C++
 | [0168-excel-sheet-column-title](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0415-add-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1108-defanging-an-ip-address](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1108-defanging-an-ip-address) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
@@ -85,6 +86,7 @@ My dsa practice in C++
 | [0022-generate-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 ## Game Theory
 |  |
 | ------- |
