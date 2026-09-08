@@ -45,6 +45,7 @@ My dsa practice in C++
 | [0989-add-to-array-form-of-integer](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1037-valid-boomerang) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3870-count-commas-in-range](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
