@@ -65,6 +65,7 @@ My dsa practice in C++
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2942-find-words-containing-character](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
@@ -77,6 +78,7 @@ My dsa practice in C++
 | [0041-first-missing-positive](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3941-password-strength](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3941-password-strength) |
 ## Sorting
 |  |
@@ -136,4 +138,12 @@ My dsa practice in C++
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3904-smallest-stable-index-ii) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
