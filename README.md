@@ -56,6 +56,7 @@ My dsa practice in C++
 | [0041-first-missing-positive](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0136-single-number) |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1037-valid-boomerang) |
@@ -86,6 +87,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
 ## Dynamic Programming
 |  |
@@ -117,6 +119,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0036-valid-sudoku) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Geometry
 |  |
 | ------- |
@@ -125,6 +128,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Interactive
 |  |
 | ------- |
@@ -170,6 +174,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
