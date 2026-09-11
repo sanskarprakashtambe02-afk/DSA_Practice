@@ -55,6 +55,7 @@ My dsa practice in C++
 | [0036-valid-sudoku](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0136-single-number) |
+| [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1037-valid-boomerang) |
@@ -76,6 +77,7 @@ My dsa practice in C++
 | ------- |
 | [0036-valid-sudoku](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0041-first-missing-positive) |
+| [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -83,6 +85,7 @@ My dsa practice in C++
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
 ## Dynamic Programming
 |  |
@@ -104,6 +107,7 @@ My dsa practice in C++
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Bit Manipulation
 |  |
@@ -158,4 +162,20 @@ My dsa practice in C++
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
