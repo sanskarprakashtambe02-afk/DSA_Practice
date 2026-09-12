@@ -16,6 +16,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0171-excel-sheet-column-number) |
@@ -56,6 +57,7 @@ My dsa practice in C++
 | ------- |
 | [0036-valid-sudoku](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0136-single-number) |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -81,6 +83,7 @@ My dsa practice in C++
 | ------- |
 | [0036-valid-sudoku](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
@@ -91,6 +94,7 @@ My dsa practice in C++
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
