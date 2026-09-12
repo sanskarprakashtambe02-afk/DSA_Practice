@@ -21,6 +21,7 @@ My dsa practice in C++
 | [0171-excel-sheet-column-number](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0940-distinct-subsequences-ii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1108-defanging-an-ip-address](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1108-defanging-an-ip-address) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -58,6 +59,7 @@ My dsa practice in C++
 | [0136-single-number](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0136-single-number) |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1037-valid-boomerang) |
@@ -81,6 +83,7 @@ My dsa practice in C++
 | [0041-first-missing-positive](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -91,6 +94,7 @@ My dsa practice in C++
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
 ## Dynamic Programming
 |  |
@@ -114,6 +118,7 @@ My dsa practice in C++
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Bit Manipulation
 |  |
@@ -180,13 +185,19 @@ My dsa practice in C++
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
