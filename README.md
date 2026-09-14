@@ -44,6 +44,7 @@ My dsa practice in C++
 | [0168-excel-sheet-column-title](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0415-add-strings) |
+| [0836-rectangle-overlap](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1037-valid-boomerang) |
@@ -138,6 +139,7 @@ My dsa practice in C++
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1037-valid-boomerang) |
 ## Binary Search
 |  |
