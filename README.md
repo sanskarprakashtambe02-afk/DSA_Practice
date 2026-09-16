@@ -63,6 +63,7 @@ My dsa practice in C++
 | [0136-single-number](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0136-single-number) |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0835-image-overlap](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
@@ -88,6 +89,7 @@ My dsa practice in C++
 | [0041-first-missing-positive](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -100,6 +102,7 @@ My dsa practice in C++
 | [0049-group-anagrams](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
