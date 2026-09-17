@@ -69,6 +69,7 @@ My dsa practice in C++
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1037-valid-boomerang) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -92,6 +93,7 @@ My dsa practice in C++
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -113,6 +115,7 @@ My dsa practice in C++
 | [0115-distinct-subsequences](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Game Theory
 |  |
@@ -151,6 +154,7 @@ My dsa practice in C++
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Interactive
 |  |
 | ------- |
@@ -218,4 +222,8 @@ My dsa practice in C++
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
