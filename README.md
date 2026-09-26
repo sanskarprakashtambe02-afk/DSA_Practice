@@ -60,6 +60,7 @@ My dsa practice in C++
 | [0036-valid-sudoku](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0136-single-number) |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -89,6 +90,7 @@ My dsa practice in C++
 | [0036-valid-sudoku](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -142,6 +144,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0835-image-overlap) |
 ## Geometry
