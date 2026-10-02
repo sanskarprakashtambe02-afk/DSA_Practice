@@ -48,6 +48,7 @@ My dsa practice in C++
 | [0415-add-strings](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1037-valid-boomerang) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -70,6 +71,7 @@ My dsa practice in C++
 | [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0835-image-overlap](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1037-valid-boomerang) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -111,6 +113,7 @@ My dsa practice in C++
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
 ## Dynamic Programming
 |  |
@@ -154,6 +157,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1037-valid-boomerang](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1037-valid-boomerang) |
 ## Binary Search
 |  |
@@ -203,6 +207,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -210,6 +215,7 @@ My dsa practice in C++
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -220,6 +226,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
@@ -232,4 +239,8 @@ My dsa practice in C++
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
