@@ -6,6 +6,7 @@ My dsa practice in C++
 ## Two Pointers
 |  |
 | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -75,6 +76,7 @@ My dsa practice in C++
 | [0989-add-to-array-form-of-integer](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1037-valid-boomerang) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -101,6 +103,7 @@ My dsa practice in C++
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -115,6 +118,7 @@ My dsa practice in C++
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
 ## Dynamic Programming
 |  |
