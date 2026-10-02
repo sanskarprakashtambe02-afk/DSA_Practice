@@ -9,6 +9,7 @@ My dsa practice in C++
 | [1679-max-number-of-k-sum-pairs](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -81,6 +82,7 @@ My dsa practice in C++
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2942-find-words-containing-character](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -106,6 +108,7 @@ My dsa practice in C++
 | [1679-max-number-of-k-sum-pairs](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3941-password-strength](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3941-password-strength) |
 ## Sorting
@@ -120,6 +123,7 @@ My dsa practice in C++
 | [0973-k-closest-points-to-origin](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
 | ------- |
