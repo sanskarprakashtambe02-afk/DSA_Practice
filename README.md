@@ -82,6 +82,7 @@ My dsa practice in C++
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2942-find-words-containing-character](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3275-k-th-nearest-obstacle-queries](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -216,6 +217,7 @@ My dsa practice in C++
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
+| [3275-k-th-nearest-obstacle-queries](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3275-k-th-nearest-obstacle-queries) |
 ## Bucket Sort
 |  |
 | ------- |
