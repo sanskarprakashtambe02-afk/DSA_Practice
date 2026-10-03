@@ -18,6 +18,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0115-distinct-subsequences) |
@@ -128,6 +129,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
@@ -186,6 +188,7 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -253,4 +256,8 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
