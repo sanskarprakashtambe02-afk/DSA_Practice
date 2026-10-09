@@ -28,6 +28,7 @@ My dsa practice in C++
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0940-distinct-subsequences-ii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1108-defanging-an-ip-address) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
@@ -189,6 +190,7 @@ My dsa practice in C++
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -260,4 +262,5 @@ My dsa practice in C++
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
