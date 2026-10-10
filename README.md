@@ -30,6 +30,7 @@ My dsa practice in C++
 | [0940-distinct-subsequences-ii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1108-defanging-an-ip-address) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -41,6 +42,7 @@ My dsa practice in C++
 ## Greedy
 |  |
 | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
@@ -191,6 +193,7 @@ My dsa practice in C++
 | [0022-generate-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -263,4 +266,5 @@ My dsa practice in C++
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
