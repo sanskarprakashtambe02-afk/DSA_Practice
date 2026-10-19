@@ -42,6 +42,7 @@ My dsa practice in C++
 ## Greedy
 |  |
 | ------- |
+| [1338-reduce-array-size-to-the-half](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -80,6 +81,7 @@ My dsa practice in C++
 | [0973-k-closest-points-to-origin](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1037-valid-boomerang) |
+| [1338-reduce-array-size-to-the-half](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -108,6 +110,7 @@ My dsa practice in C++
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
+| [1338-reduce-array-size-to-the-half](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -125,6 +128,7 @@ My dsa practice in C++
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
+| [1338-reduce-array-size-to-the-half](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2465-number-of-distinct-averages](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -233,6 +237,7 @@ My dsa practice in C++
 | [0451-sort-characters-by-frequency](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/0973-k-closest-points-to-origin) |
+| [1338-reduce-array-size-to-the-half](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3275-k-th-nearest-obstacle-queries) |
 ## Bucket Sort
 |  |
