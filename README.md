@@ -61,6 +61,7 @@ My dsa practice in C++
 | [1037-valid-boomerang](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1037-valid-boomerang) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -96,6 +97,7 @@ My dsa practice in C++
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
