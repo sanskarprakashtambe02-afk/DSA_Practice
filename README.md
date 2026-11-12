@@ -95,6 +95,7 @@ My dsa practice in C++
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2942-find-words-containing-character](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sanskarprakashtambe02-afk/DSA_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
